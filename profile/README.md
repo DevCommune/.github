@@ -65,5 +65,3 @@ For any questions or inquiries, please reach out to us at:
 We look forward to your participation and contribution to our community!
 
 ---
-
-*This README file is designed to provide an overview of Dev Commune, its activities, and how to get involved. Feel free to customize it further to better fit your community's needs.*
